@@ -1,0 +1,12 @@
+.RData
+.Rhistory
+*.Rproj
+.Rproj.user/
+.cache/
+.config/
+.local/
+.subversion/
+.sh_history
+.rscignore
+.bash*
+.profile

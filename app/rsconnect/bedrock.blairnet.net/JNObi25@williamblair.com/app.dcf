@@ -1,0 +1,13 @@
+name: app
+title: app
+username: JNObi25@williamblair.com
+account: JNObi25@williamblair.com
+server: bedrock.blairnet.net
+hostUrl: https://bedrock.blairnet.net/shiny/__api__
+appId: 72
+bundleId: 463
+url: https://bedrock.blairnet.net/shiny/content/623c638c-12b5-4ade-9aef-f054b5592aaa/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|MB Testing Data June 2025.csv|MB_Testing_Data_June_2025.zip|www/wb-3d-logo-Photoroom.png|www/wb-3d-logo.png
